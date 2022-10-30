@@ -50,7 +50,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:18.2.0"],\
             ["react-icons", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:4.6.0"],\
-            ["recoil", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:0.7.5"],\
+            ["recoil", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:0.7.6"],\
             ["sass", "npm:1.55.0"],\
             ["typescript", "patch:typescript@npm%3A4.8.3#~builtin<compat/typescript>::version=4.8.3&hash=a1c5e5"]\
           ],\
@@ -3626,7 +3626,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:18.2.0"],\
             ["react-icons", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:4.6.0"],\
-            ["recoil", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:0.7.5"],\
+            ["recoil", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:0.7.6"],\
             ["sass", "npm:1.55.0"],\
             ["typescript", "patch:typescript@npm%3A4.8.3#~builtin<compat/typescript>::version=4.8.3&hash=a1c5e5"]\
           ],\
@@ -4547,17 +4547,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["recoil", [\
-        ["npm:0.7.5", {\
-          "packageLocation": "./.yarn/cache/recoil-npm-0.7.5-b0fe76743a-19b410cca6.zip/node_modules/recoil/",\
+        ["npm:0.7.6", {\
+          "packageLocation": "./.yarn/cache/recoil-npm-0.7.6-6f8de04e3d-2b31dd29a7.zip/node_modules/recoil/",\
           "packageDependencies": [\
-            ["recoil", "npm:0.7.5"]\
+            ["recoil", "npm:0.7.6"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:0.7.5", {\
-          "packageLocation": "./.yarn/__virtual__/recoil-virtual-1d42945acf/0/cache/recoil-npm-0.7.5-b0fe76743a-19b410cca6.zip/node_modules/recoil/",\
+        ["virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:0.7.6", {\
+          "packageLocation": "./.yarn/__virtual__/recoil-virtual-6efb16e2f2/0/cache/recoil-npm-0.7.6-6f8de04e3d-2b31dd29a7.zip/node_modules/recoil/",\
           "packageDependencies": [\
-            ["recoil", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:0.7.5"],\
+            ["recoil", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:0.7.6"],\
             ["@types/react", "npm:18.0.21"],\
             ["@types/react-dom", "npm:18.0.6"],\
             ["@types/react-native", null],\
