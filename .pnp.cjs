@@ -39,7 +39,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@trivago/prettier-plugin-sort-imports", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:3.4.0"],\
             ["@types/node", "npm:18.7.14"],\
             ["@types/react", "npm:18.0.21"],\
-            ["@types/react-dom", "npm:18.0.6"],\
+            ["@types/react-dom", "npm:18.0.9"],\
             ["axios", "npm:0.27.2"],\
             ["eslint", "npm:8.24.0"],\
             ["eslint-config-next", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:12.3.1"],\
@@ -708,7 +708,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@headlessui/react", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:1.7.2"],\
             ["@types/react", "npm:18.0.21"],\
-            ["@types/react-dom", "npm:18.0.6"],\
+            ["@types/react-dom", "npm:18.0.9"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:18.2.0"]\
           ],\
@@ -1197,10 +1197,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/react-dom", [\
-        ["npm:18.0.6", {\
-          "packageLocation": "./.yarn/cache/@types-react-dom-npm-18.0.6-55949dcf84-db571047af.zip/node_modules/@types/react-dom/",\
+        ["npm:18.0.9", {\
+          "packageLocation": "./.yarn/cache/@types-react-dom-npm-18.0.9-e52458db76-e744e3feba.zip/node_modules/@types/react-dom/",\
           "packageDependencies": [\
-            ["@types/react-dom", "npm:18.0.6"],\
+            ["@types/react-dom", "npm:18.0.9"],\
             ["@types/react", "npm:18.0.18"]\
           ],\
           "linkType": "HARD"\
@@ -2814,7 +2814,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@emotion/is-prop-valid", "npm:0.8.8"],\
             ["@motionone/dom", "npm:10.13.1"],\
             ["@types/react", "npm:18.0.21"],\
-            ["@types/react-dom", "npm:18.0.6"],\
+            ["@types/react-dom", "npm:18.0.9"],\
             ["framesync", "npm:6.1.2"],\
             ["hey-listen", "npm:1.0.8"],\
             ["popmotion", "npm:11.0.5"],\
@@ -3615,7 +3615,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@trivago/prettier-plugin-sort-imports", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:3.4.0"],\
             ["@types/node", "npm:18.7.14"],\
             ["@types/react", "npm:18.0.21"],\
-            ["@types/react-dom", "npm:18.0.6"],\
+            ["@types/react-dom", "npm:18.0.9"],\
             ["axios", "npm:0.27.2"],\
             ["eslint", "npm:8.24.0"],\
             ["eslint-config-next", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:12.3.1"],\
@@ -3991,7 +3991,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/fibers", null],\
             ["@types/node-sass", null],\
             ["@types/react", "npm:18.0.21"],\
-            ["@types/react-dom", "npm:18.0.6"],\
+            ["@types/react-dom", "npm:18.0.9"],\
             ["@types/sass", null],\
             ["caniuse-lite", "npm:1.0.30001410"],\
             ["fibers", null],\
@@ -4559,7 +4559,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["recoil", "virtual:4274d5e82c6b17b79295f14d30290d7bb852fa14dbfecea4ba81fa90b1fcaf201810d5bac36863d9476f12acbec3478cb7b2b4cea2ba167e89a5982528d2290b#npm:0.7.5"],\
             ["@types/react", "npm:18.0.21"],\
-            ["@types/react-dom", "npm:18.0.6"],\
+            ["@types/react-dom", "npm:18.0.9"],\
             ["@types/react-native", null],\
             ["hamt_plus", "npm:1.0.2"],\
             ["react", "npm:18.2.0"],\
