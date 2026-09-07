@@ -529,13 +529,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@headlessui/react@npm:1.7.2":
-  version: 1.7.2
-  resolution: "@headlessui/react@npm:1.7.2"
+"@headlessui/react@npm:1.7.19":
+  version: 1.7.19
+  resolution: "@headlessui/react@npm:1.7.19"
+  dependencies:
+    "@tanstack/react-virtual": ^3.0.0-beta.60
+    client-only: ^0.0.1
   peerDependencies:
     react: ^16 || ^17 || ^18
     react-dom: ^16 || ^17 || ^18
-  checksum: 8889d7a1984c955c0034d8aed3211a91b90238ddecf116490bd892cae79c2983d8832ab450d387991d3330f5d5f1e4aa8d8e1ceb1ff2227960f76c89c0cc1e0a
+  checksum: 2a343a5fcf1f45e870cc94613231b89a8da78114001ffafa4751a0eceae7569ff9237aff1f2aedfa6f6e53ee3bb9ba5e5d19ebf1878fee3ff4f3c733fddc1087
   languageName: node
   linkType: hard
 
@@ -855,6 +858,25 @@ __metadata:
   dependencies:
     tslib: ^2.4.0
   checksum: 736857d524b41a8a4db81094e9b027f554004e0fa3e86325d85bdb38f7e6459ce022db079edb6c61ba0f46fe8583b3e663e95f7acbd13e51b8da6c34e45bba2e
+  languageName: node
+  linkType: hard
+
+"@tanstack/react-virtual@npm:^3.0.0-beta.60":
+  version: 3.14.11
+  resolution: "@tanstack/react-virtual@npm:3.14.11"
+  dependencies:
+    "@tanstack/virtual-core": 3.17.9
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
+    react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
+  checksum: 0f44fb4da62a8680152b69c075ea046f03e9163e165c0aac2767ea44cbf8cfd1d76d0fceee17b011860dff49735a2801be4731371338b537b0527579a63ab3c4
+  languageName: node
+  linkType: hard
+
+"@tanstack/virtual-core@npm:3.17.9":
+  version: 3.17.9
+  resolution: "@tanstack/virtual-core@npm:3.17.9"
+  checksum: 3809df0f1b842a6f65887bee2d4a396dab541bf8de63bace47965a3d68dc283f2fce69a68f22c89e2839dde1078a9df6c8d033e60389b633a52e90ab3b9e0ae5
   languageName: node
   linkType: hard
 
@@ -1474,6 +1496,13 @@ __metadata:
   version: 2.2.0
   resolution: "clean-stack@npm:2.2.0"
   checksum: 2ac8cd2b2f5ec986a3c743935ec85b07bc174d5421a5efc8017e1f146a1cf5f781ae962618f416352103b32c9cd7e203276e8c28241bbe946160cab16149fb68
+  languageName: node
+  linkType: hard
+
+"client-only@npm:^0.0.1":
+  version: 0.0.1
+  resolution: "client-only@npm:0.0.1"
+  checksum: 0c16bf660dadb90610553c1d8946a7fdfb81d624adea073b8440b7d795d5b5b08beb3c950c6a2cf16279365a3265158a236876d92bce16423c485c322d7dfaf8
   languageName: node
   linkType: hard
 
@@ -2918,7 +2947,7 @@ __metadata:
   dependencies:
     "@emotion/react": 11.10.4
     "@emotion/styled": 11.10.4
-    "@headlessui/react": 1.7.2
+    "@headlessui/react": 1.7.19
     "@trivago/prettier-plugin-sort-imports": 3.4.0
     "@types/node": 18.7.14
     "@types/react": 18.0.21
